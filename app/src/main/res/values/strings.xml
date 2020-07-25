@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">TablayoutFrameLayoutandFragment</string>
+    <string name="calls">Calls</string>
+    <string name="status">Status</string>
+    <string name="chat">Chat</string>
+    <string name="login_form">Login Form</string>
+</resources>
